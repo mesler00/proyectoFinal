@@ -1,0 +1,12 @@
+setup.py
+1erpaquete.egg-info/PKG-INFO
+1erpaquete.egg-info/SOURCES.txt
+1erpaquete.egg-info/dependency_links.txt
+1erpaquete.egg-info/top_level.txt
+e-commerce/__init__.py
+e-commerce/carrito.py
+e-commerce/cliente.py
+e-commerce/defaults.py
+e-commerce/entrega.py
+e-commerce/libro.py
+e-commerce/main.py
