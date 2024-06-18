@@ -1,0 +1,1 @@
+# readme de mi proyecto en django!
